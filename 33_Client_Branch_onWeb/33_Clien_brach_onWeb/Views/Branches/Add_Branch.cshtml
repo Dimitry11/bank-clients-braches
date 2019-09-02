@@ -1,0 +1,99 @@
+﻿@model _33_Clien_brach_onWeb.Models.Branch
+
+@{
+    ViewBag.Title = "Add_Branch";
+}
+
+<h1 style="text-align:center;font-family:'Modern No. 20';font-weight:bold">Add New Branch</h1>
+
+@using (Html.BeginForm())
+{
+<div id="main">
+    <!--Name:-->
+    <div id="nme" class="col-lg-6 block"> Branch name: </div>
+    <div class="col-lg-6">
+        @Html.TextBox("name", Model.name, new { @class = "form-control" })
+    </div>
+
+    <!--Postal code:-->
+    <div id="txt" class="col-lg-6 block"> *Postal code: </div>
+    <div class="col-lg-6">
+        @Html.TextBox("postcode", Model.postcode, new { @class = "form-control" })
+    </div>
+
+    <!--Address:-->
+    <div id="adrr" class="col-lg-6 block"> *Address: </div>
+    <div class="col-lg-6">
+        @Html.TextBox("address", Model.address, new { @class = "form-control" })
+    </div>
+
+    <!--Phone Number:-->
+    <div id="adrr" class="col-lg-6 block"> *Phone number: </div>
+    <div class="col-lg-6">
+        @Html.TextBox("phone_number", Model.phone_number, new { @class = "form-control" })
+    </div>
+
+    <!--Support Email:-->
+    <div id="adrr" class="col-lg-6 block"> *Support Email: </div>
+    <div class="col-lg-6">
+        @Html.TextBox("suport_email", Model.suport_email, new { @class = "form-control" })
+    </div>
+
+    <!--Schedual-->
+    <div id="adrr" class="col-lg-6 block"> *Schedual: </div>
+    <div class="col-lg-6">
+        @Html.TextBox("schedual", Model.schedual, new { @class = "form-control" })
+    </div>
+
+    <!--Id Bank:-->
+    <div id="adrr" class="col-lg-6 block"> *Id bank: </div>
+    <div class="col-lg-6">
+        @Html.TextBox("id_bank", Model.id_bank, new { @class = "form-control" })
+    </div>
+
+    <!--Button:-->
+    <div id="btn">
+        <input type="submit" value="-> ADD <-" class="btn btn-primary" />
+    </div>
+
+    <br />    
+    <!--Attemt:-->
+    <p style="color:blueviolet;font-weight:bold;text-align:center">
+        <small>* - объязательное поле для заполнения</small>
+    </p>
+</div>
+}
+
+<style>
+    mark {
+        color: red;
+    }
+    #btn {
+        width: 100px;
+        padding: 15px;
+        margin: auto;
+    }
+    #center, #c, #main {
+        width: 500px; /* Ширина элемента в пикселах */
+        padding: 10px; /* Поля вокруг текста */
+        margin: auto; /* Выравниваем по центру */
+    }
+
+    p {
+        font-weight: bold;
+    }
+
+    h1 {
+        font-family: 'Palatino Linotype';
+    }
+
+    #adrr, #txt, #nme {
+        font-weight: bold;
+    }
+</style>
+
+
+
+
+
+

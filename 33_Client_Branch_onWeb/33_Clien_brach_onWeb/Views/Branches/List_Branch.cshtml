@@ -1,0 +1,110 @@
+﻿@model IEnumerable<_33_Clien_brach_onWeb.Models.Branch>
+
+@{
+    ViewBag.Title = "List_Branch";
+}
+
+<h1 style="color:green;text-align:center"> @ViewBag.Message</h1>
+<h1  style=" text-align:center;font-family:'Modern No. 20';font-weight:bold"> -- List Branch -- </h1>
+
+<table style="float:right">
+    <tr>
+        <th>Find by name: @Html.TextBox("SearchString", ViewBag.CurrentFilter as string, new { @class = "form-control" })</th>
+        <th><input style="margin:17px 0 0 0" type="submit" value="Search" class="btn btn-primary" /><br /></th>
+    </tr>
+</table>
+
+<p id="create">
+    @Html.ActionLink("Create New", "Add_Branch", null, new { @class = "creat" })
+</p>
+
+<style>
+    #cl {
+        font-size: larger;
+        font-weight: bold;
+
+    }
+    .creat {
+        text-decoration: none;
+        color: darkblue;
+        font-weight: bold;
+    }
+        .creat:hover {
+            text-decoration: none;
+            color: darkblue;
+            font-weight: bold;
+        }
+    #create {
+        border: 3px solid darkblue;
+        border-radius: 5px;
+        position: absolute;
+        padding: 14px;
+        margin: -50px 0 0 0;
+    }
+        #create:hover {
+            border: 3px solid darkblue;
+            border-radius: 5px;
+            position: absolute;
+            padding: 14px;
+            margin: -50px 0 0 0;
+            background-color: gold;
+        }
+</style>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.postcode)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.address)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.phone_number)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.suport_email)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.schedual)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.id_bank)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr id="cl">
+        <td>
+            @Html.DisplayFor(modelItem => item.name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.postcode)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.address)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.phone_number)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.suport_email)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.schedual)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.id_bank)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.id }) |
+            @Html.ActionLink("Details", "Details", new { id=item.id }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.id })
+        </td>
+    </tr>
+}
+
+</table>

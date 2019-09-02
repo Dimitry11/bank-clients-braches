@@ -1,0 +1,78 @@
+﻿@model _33_Clien_brach_onWeb.Models.Bank
+
+@{
+    ViewBag.Title = "Add_Bank";
+}
+
+
+<h1 style="text-align:center;font-family:'Modern No. 20';font-weight:bold">Add New Bank</h1>
+
+@using (Html.BeginForm())
+{
+<div id="main">
+    <!--Name:-->
+    <div id="nme" class="col-lg-6 block"> *Bank name: </div>
+    <div class="col-lg-6">
+        @Html.TextBox("name", Model.name, new { @class = "form-control" })
+    </div>
+
+    <!--Bank account:-->
+    <div id="txt" class="col-lg-6 block"> Bank account: </div>
+    <div class="col-lg-6">
+        @Html.TextBox("bank_acc", Model.bank_acc, new { @class = "form-control" })
+    </div>
+
+    <!--Branch number:-->
+    <div id="adrr" class="col-lg-6 block"> *Branch number: </div>
+    <div class="col-lg-6">
+        @Html.TextBox("branch_number", Model.branch_number, new { @class = "form-control" })
+    </div>
+
+    <!--Button:-->
+    <!--<div class="col-lg-2"></div>-->
+    <div id="btn">
+        <input type="submit" value="-> ADD New <-" class="btn btn-primary" />
+    </div>
+    @*<div class="col-lg-4"></div>*@
+
+    <!--Attemt:-->
+    <br />
+    <p style="color:blueviolet;font-weight:bold;text-align:center">
+        <small>* - объязательное поле для заполнения</small>
+    </p>
+</div>
+}
+
+<style>
+    mark {
+        color: red;
+    }
+
+    #btn {
+        width: 100px;
+        padding: 15px;
+        margin: auto;
+    }
+
+    #center, #c, #main {
+        width: 600px; /* Ширина элемента в пикселах */
+        padding: 10px; /* Поля вокруг текста */
+        margin: auto; /* Выравниваем по центру */
+    }
+
+    p {
+        font-weight: bold;
+    }
+
+    h1 {
+        font-family: 'Palatino Linotype';
+    }
+
+    #adrr, #txt, #nme {
+        font-weight: bold;
+    }
+</style>
+
+
+
+

@@ -1,0 +1,94 @@
+﻿@model IEnumerable<_33_Clien_brach_onWeb.Models.Branch>
+
+@{
+    ViewBag.Title = "DeleteBranch";
+}
+
+<h1 style="text-align:center;font-family:'Modern No. 20';font-weight:bold">Delete Branch</h1>
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.postcode)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.address)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.phone_number)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.suport_email)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.schedual)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.id_bank)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.postcode)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.address)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.phone_number)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.suport_email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.schedual)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.id_bank)
+            </td>
+            <td id="del">
+                @Html.ActionLink("Delete", "Delete", new { id = item.id, @class="delBr" })
+            </td>
+        </tr>
+    }
+
+</table>
+
+
+
+<style>
+    .delBr {
+        text-decoration: none;
+        color: green;
+    }
+        .delBr:hover {
+            text-decoration: none;
+            color: black;
+        }
+    #del {
+        border: 1px solid blue;
+        border-radius: 13px;
+        position: absolute;
+        padding: 8px;
+        /*margin: -50px 0 0 0;*/
+    }
+        #del:hover {
+            border: 1px solid blue;
+            border-radius: 13px;
+            position: absolute;
+            padding: 8px;
+            /*margin: -50px 0 0 0;*/
+            background-color: gold;
+        }
+</style>

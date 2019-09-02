@@ -1,0 +1,40 @@
+﻿@model _33_Clien_brach_onWeb.Models.Bank
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2 style="text-align:center;font-family:'Modern No. 20';font-weight:bold">Details Bank</h2>
+
+<div style="width: 300px; padding: 10px; margin: auto;">
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.bank_acc)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.bank_acc)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.branch_number)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.branch_number)
+        </dd>
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.id }) |
+    @Html.ActionLink("Back to List", "List_Banks")
+</p>

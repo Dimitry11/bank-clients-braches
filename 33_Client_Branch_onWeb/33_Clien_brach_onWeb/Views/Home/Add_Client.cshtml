@@ -1,0 +1,80 @@
+﻿@model _33_Clien_brach_onWeb.Models.Client
+@{
+    ViewBag.Title = "Add New Client to DB";
+}
+<p class="col-lg-6 block">
+    <h1 style="text-align:center">Add New Client to Database</h1>
+    @*<h2 style="text-align:center">@ViewBag.Message</h2>*@
+</p>
+@using (Html.BeginForm())
+{
+<div id="main">
+    <!--Name:-->
+    <div id="nme" class="col-lg-6 block">
+        *Имя клиента:
+    </div>
+    <div class="col-lg-6">
+        @Html.TextBox("Name", Model.name, new { @class = "form-control" })
+    </div>
+
+    <!--Card_Nuber:-->
+    <div id="txt" class="col-lg-6 block"> *Номер карты: </div>
+    <div class="col-lg-6">
+        @Html.TextBox("card_number", Model.card_number, new { @class = "form-control" })
+    </div>
+
+    <!--Number_Account:-->
+    <div id="adrr" class="col-lg-6 block"> Номер счета: </div>
+    <div class="col-lg-6">
+        @Html.TextBox("number_acc", Model.number_acc, new { @class = "form-control" })
+    </div>
+
+    <!--Date_Register:-->
+    <div id="adrr" class="col-lg-6 block"> Дата добавления(регистрации): </div>
+    <div class="col-lg-6">
+        @Html.TextBox("date_register", Model.date_register, new { @class = "form-control" })
+    </div>
+
+    <br /><br />
+    <!--Button:-->
+    <div id="btn">
+        <input type="submit" value="-> Add New <-" class="btn btn-primary" />
+    </div>
+    @*<div class="col-lg-4"></div>*@
+
+    <!--Attemt:-->
+    <br />
+    <p style="color:blueviolet;font-weight:bold;text-align:center">
+        <small>* - объязательное поле для заполнения</small>
+    </p>
+
+</div>
+}
+
+<style>
+    mark {
+        color: red;
+    }
+
+    #center, #c, #main{
+        width: 600px; /* Ширина элемента в пикселах */
+        padding: 20px; /* Поля вокруг текста */
+        margin: auto; /* Выравниваем по центру */
+    }
+    #btn {
+        width: 100px; 
+        padding: 15px; 
+        margin: auto; 
+    }
+    p {
+        font-weight: bold;
+    }
+
+    h1 {
+        font-family: 'Palatino Linotype';
+    }
+
+    #adrr, #txt, #nme {
+        font-weight: bold;
+    }
+</style>

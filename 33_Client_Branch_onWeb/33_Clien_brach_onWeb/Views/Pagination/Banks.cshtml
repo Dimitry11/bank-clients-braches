@@ -1,0 +1,96 @@
+﻿@model PagedList.IPagedList<_33_Clien_brach_onWeb.Models.Bank>
+@using PagedList.Mvc;
+
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+@{
+    ViewBag.Title = "Banks";
+}
+
+<h2 style="text-align:center;font-weight:bold">List of a Banks</h2>
+
+
+<body style="background-color:whitesmoke">
+    <p id="create">
+        @Html.ActionLink("Create New", "Add_Bank", "Banks", null, new { @class = "creat" })
+    </p>
+    <table class="table">
+        <tr>
+            <th>
+                Id
+            </th>
+            <th>
+                Name
+            </th>
+            <th>
+                Bank Account
+            </th>
+            <th>
+                Branch Number
+            </th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr id="cl">
+                <td>
+                    @Html.DisplayFor(modelItem => item.id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.bank_acc)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.branch_number)
+                </td>
+            </tr>
+        }
+    </table>
+    <br />
+
+    <p style="text-align:center; font-weight: bold; font-family: 'Modern No. 20'">
+        Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) from @Model.PageCount
+    </p>
+    <div style="width:700px;padding:10px;margin:auto">
+        @Html.PagedListPager(Model, page => Url.Action("Banks", new { page }))
+    </div>
+</body>
+
+
+
+
+<style>
+    #cl {
+        font-size: larger;
+        font-weight: bold;
+    }
+    .creat {
+        text-decoration: none;
+        color: darkblue;
+        font-weight:bold;
+    }
+
+        .creat:hover {
+            text-decoration: none;
+            color: darkblue;
+        }
+
+    #create {
+        border: 3px solid darkblue;
+        border-radius: 5px;
+        position: absolute;
+        padding: 14px;
+        margin: -65px 0 0 0;
+    }
+
+        #create:hover {
+            border: 3px solid darkblue;
+            border-radius: 5px;
+            position: absolute;
+            padding: 14px;
+            margin: -50px 0 0 0;
+            background-color: gold;
+            margin: -65px 0 0 0;
+        }
+</style>

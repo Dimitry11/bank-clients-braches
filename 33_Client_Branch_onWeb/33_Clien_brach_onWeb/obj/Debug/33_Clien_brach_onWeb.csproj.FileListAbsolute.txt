@@ -1,0 +1,343 @@
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\33_Clien_brach_onWeb.dll.config
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\33_Clien_brach_onWeb.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\33_Clien_brach_onWeb.pdb
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\csc.exe
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\csc.exe.config
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\csc.rsp
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\csi.exe
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\csi.exe.config
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\csi.rsp
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\Microsoft.Managed.Core.targets
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.AppContext.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.Collections.Immutable.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.Console.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.IO.Compression.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.IO.FileSystem.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.IO.Pipes.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.Reflection.Metadata.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.Security.AccessControl.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.Security.Claims.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.Security.Principal.Windows.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.ValueTuple.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.Xml.XmlDocument.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.Xml.XPath.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\vbc.exe
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\vbc.exe.config
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\vbc.rsp
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\VBCSCompiler.exe
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\VBCSCompiler.exe.config
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\Antlr3.Runtime.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\Microsoft.Web.Infrastructure.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\Newtonsoft.Json.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\System.Diagnostics.DiagnosticSource.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\System.Web.Helpers.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\System.Web.Mvc.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\System.Web.Optimization.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\System.Web.Razor.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\System.Web.WebPages.Deployment.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\System.Web.WebPages.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\System.Web.WebPages.Razor.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\WebGrease.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\System.Web.Helpers.xml
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\System.Web.Mvc.xml
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\System.Web.Optimization.xml
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\System.Web.Razor.xml
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\System.Web.WebPages.xml
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\System.Web.WebPages.Deployment.xml
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\System.Web.WebPages.Razor.xml
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\Newtonsoft.Json.xml
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\Antlr3.Runtime.pdb
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\System.Diagnostics.DiagnosticSource.xml
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\obj\Debug\33_Clien_brach_onWeb.csproj.CoreCompileInputs.cache
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\obj\Debug\33_Clien_brach_onWeb.csproj.CopyComplete
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\obj\Debug\33_Clien_brach_onWeb.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\obj\Debug\33_Clien_brach_onWeb.pdb
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\obj\Debug\33_Clien_brach_onWeb.csprojAssemblyReference.cache
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\obj\Debug\33_Clien_brach_onWeb.csproj.CoreCompileInputs.cache
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\obj\Debug\33_Clien_brach_onWeb.dll
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\obj\Debug\33_Clien_brach_onWeb.pdb
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\33_Clien_brach_onWeb.dll.config
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\33_Clien_brach_onWeb.dll
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\33_Clien_brach_onWeb.pdb
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\csc.exe
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\csc.exe.config
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\csc.rsp
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\csi.exe
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\csi.exe.config
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\csi.rsp
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\Microsoft.Managed.Core.targets
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.AppContext.dll
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.Collections.Immutable.dll
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.Console.dll
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.IO.Compression.dll
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.IO.FileSystem.dll
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.IO.Pipes.dll
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.Reflection.Metadata.dll
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.Security.AccessControl.dll
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.Security.Claims.dll
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.Security.Principal.Windows.dll
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.ValueTuple.dll
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.Xml.XmlDocument.dll
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.Xml.XPath.dll
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\vbc.exe
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\vbc.exe.config
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\vbc.rsp
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\VBCSCompiler.exe
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\roslyn\VBCSCompiler.exe.config
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\Antlr3.Runtime.dll
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\Microsoft.Web.Infrastructure.dll
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\Newtonsoft.Json.dll
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\System.Diagnostics.DiagnosticSource.dll
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\System.Web.Helpers.dll
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\System.Web.Mvc.dll
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\System.Web.Optimization.dll
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\System.Web.Razor.dll
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\System.Web.WebPages.Deployment.dll
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\System.Web.WebPages.dll
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\System.Web.WebPages.Razor.dll
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\WebGrease.dll
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\System.Web.Helpers.xml
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\System.Web.Mvc.xml
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\System.Web.Optimization.xml
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\System.Web.Razor.xml
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\System.Web.WebPages.xml
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\System.Web.WebPages.Deployment.xml
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\System.Web.WebPages.Razor.xml
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\Newtonsoft.Json.xml
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\Antlr3.Runtime.pdb
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\System.Diagnostics.DiagnosticSource.xml
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\obj\Debug\33_Clien_brach_onWeb.csproj.CopyComplete
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\EntityFramework.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\EntityFramework.SqlServer.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\EntityFramework.xml
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\EntityFramework.SqlServer.xml
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\obj\Debug\33_Clien_brach_onWeb.csprojAssemblyReference.cache
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\PagedList.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\PagedList.Mvc.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\PagedList.xml
+H:\C SHARP ФКАДЕНИЯ 2\33_Clien_brach_onWeb\33_Clien_brach_onWeb\bin\PagedList.Mvc.xml
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\33_Clien_brach_onWeb.dll.config
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\33_Clien_brach_onWeb.dll
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\33_Clien_brach_onWeb.pdb
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\roslyn\csc.exe
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\roslyn\csc.exe.config
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\roslyn\csc.rsp
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\roslyn\csi.exe
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\roslyn\csi.exe.config
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\roslyn\csi.rsp
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\roslyn\System.Console.dll
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\roslyn\vbc.exe
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\roslyn\vbc.exe.config
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\roslyn\vbc.rsp
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\Antlr3.Runtime.dll
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\EntityFramework.dll
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\Newtonsoft.Json.dll
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\PagedList.dll
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\PagedList.Mvc.dll
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\System.Web.Helpers.dll
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\System.Web.Mvc.dll
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\System.Web.Optimization.dll
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\System.Web.Razor.dll
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\System.Web.WebPages.dll
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\WebGrease.dll
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\EntityFramework.xml
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\PagedList.xml
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\PagedList.Mvc.xml
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\System.Web.Helpers.xml
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\System.Web.Mvc.xml
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\System.Web.Optimization.xml
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\System.Web.Razor.xml
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\System.Web.WebPages.xml
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\Newtonsoft.Json.xml
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\Antlr3.Runtime.pdb
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\obj\Debug\33_Clien_brach_onWeb.csprojAssemblyReference.cache
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\obj\Debug\33_Clien_brach_onWeb.csproj.CoreCompileInputs.cache
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\obj\Debug\33_Clien_brach_onWeb.csproj.CopyComplete
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\obj\Debug\33_Clien_brach_onWeb.dll
+C:\Users\Марта Фурман\Videos\Recorded Videos\33_Clien_brach_onWeb\obj\Debug\33_Clien_brach_onWeb.pdb
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\33_Clien_brach_onWeb.dll.config
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\33_Clien_brach_onWeb.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\33_Clien_brach_onWeb.pdb
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\roslyn\csc.exe
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\roslyn\csc.exe.config
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\roslyn\csc.rsp
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\roslyn\csi.exe
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\roslyn\csi.exe.config
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\roslyn\csi.rsp
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\roslyn\Microsoft.Managed.Core.targets
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.AppContext.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.Collections.Immutable.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.Console.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.IO.Compression.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.IO.FileSystem.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.IO.Pipes.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.Reflection.Metadata.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.Security.AccessControl.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.Security.Claims.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.Security.Principal.Windows.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.ValueTuple.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.Xml.XmlDocument.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.Xml.XPath.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\roslyn\vbc.exe
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\roslyn\vbc.exe.config
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\roslyn\vbc.rsp
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\roslyn\VBCSCompiler.exe
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\roslyn\VBCSCompiler.exe.config
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\Antlr3.Runtime.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\EntityFramework.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\EntityFramework.SqlServer.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\Microsoft.Web.Infrastructure.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\Newtonsoft.Json.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\PagedList.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\PagedList.Mvc.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\System.Diagnostics.DiagnosticSource.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\System.Web.Helpers.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\System.Web.Mvc.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\System.Web.Optimization.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\System.Web.Razor.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\System.Web.WebPages.Deployment.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\System.Web.WebPages.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\System.Web.WebPages.Razor.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\WebGrease.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\EntityFramework.xml
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\EntityFramework.SqlServer.xml
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\PagedList.xml
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\PagedList.Mvc.xml
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\System.Web.Helpers.xml
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\System.Web.Mvc.xml
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\System.Web.Optimization.xml
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\System.Web.Razor.xml
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\System.Web.WebPages.xml
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\System.Web.WebPages.Deployment.xml
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\System.Web.WebPages.Razor.xml
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\Newtonsoft.Json.xml
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\System.Diagnostics.DiagnosticSource.xml
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\obj\Debug\33_Clien_brach_onWeb.csprojAssemblyReference.cache
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\obj\Debug\33_Clien_brach_onWeb.csproj.CoreCompileInputs.cache
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\obj\Debug\33_Clien_brach_onWeb.csproj.CopyComplete
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\obj\Debug\33_Clien_brach_onWeb.dll
+H:\C SHARP ФКАДЕНИЯ 2\33_Client_Branch_onWeb\33_Clien_brach_onWeb\obj\Debug\33_Clien_brach_onWeb.pdb

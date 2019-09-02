@@ -1,0 +1,54 @@
+HomeController:
+-----------------
+public ViewResult ClientList(int page = 0, string search = "", bool IsSameSearch = false)
+        {
+            int pageSize = 5;
+            if (!String.IsNullOrEmpty(search) && IsSameSearch == false)
+            {
+                page = 0;
+            }
+            var list = DAL.PersonDAL.GetPersonList(page, search, pageSize);
+            int count = DAL.PersonDAL.GetCount(search);
+            ViewBag.MaxPages = (count / pageSize) - (count % pageSize == 0 ? 1 : 0);
+            ViewBag.Page = page;
+            ViewBag.SearchResult = search;
+            return View(list);
+        } 
+View: ClientList:
+----------------------
+int max = (int)ViewBag.MaxPages;
+    int current = (int)ViewBag.Page;
+    bool isSameSearch = false;
+    if (!String.IsNullOrEmpty((string)ViewBag.SearchResult))
+    {
+        isSameSearch = true;
+    }
+
+ @for (int i = 0; i <= max; i++)
+        {
+            int viewPage = i + 1;
+            if (i == current)
+            {
+                <span>@viewPage </span>
+            }
+            else
+            {             
+                <span><a href="\Home\ClientList?page=@i&search=@ViewBag.SearchResult&IsSameSearch=@isSameSearch.ToString()">@viewPage</a> </span>
+            }
+        }
+--------------------
+GetPersonList:
+		int offset = 0;
+                if (page > 0)
+                {                    
+                    offset = page * pageSize + 1;
+                }                
+
+                string command = "SELECT [Id] ,[Name] ,[Id_client] ,[BD] ,[Loc] ,[Account]" +
+                    " ,[Sum] ,[Id_branch] FROM[bank].[dbo].[Client]";
+                if (!String.IsNullOrEmpty(search))
+                {
+                    command += " WHERE [Name] LIKE N'%" + search + "%' OR Id_client LIKE '%" + search + "%'";
+                }
+                command += " ORDER BY id OFFSET " + offset + " ROWS FETCH NEXT " + pageSize + " ROWS ONLY";
+ 

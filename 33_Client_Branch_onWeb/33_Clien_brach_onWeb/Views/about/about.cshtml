@@ -1,0 +1,12 @@
+﻿@model _33_Clien_brach_onWeb.Models.Info
+
+@{
+    ViewBag.Title = "about";
+}
+
+<h1 style="text-align:center;font-family:'Palatino Linotype';color:green;background-color:whitesmoke;border-radius:22px">About</h1>
+<div style="color:darkblue;font-family:'Palatino Linotype';border:1px solid black;background-color:aqua;padding:15px;border-radius:22px">
+    <h4>Автор: @Model.name</h4>
+    <h4>Email: @Model.email</h4>
+    <h4>@Model.description</h4>
+</div>

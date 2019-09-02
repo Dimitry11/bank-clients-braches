@@ -1,0 +1,75 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Clients </title>
+    <link href="~/Content/Site.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <script src="~/Scripts/modernizr-2.6.2.js"></script>
+</head>
+
+<body id="b1">
+    <div id="header" class="col-lg-12">
+        <div class="col-lg-4"></div>
+        <div class="col-lg-8">
+            <ul class="nav nav-pills">
+                <li> @Html.ActionLink("Clients", "Clients", "Pagination", null, new { @class = "allcl" })</li>
+                <li> @Html.ActionLink("Branches", "Branches", "Pagination", null, new { @class = "allcl" })</li>
+                <li> @Html.ActionLink("Banks", "Banks", "Pagination", null, new { @class = "allcl" })</li>
+                <li> @Html.ActionLink("List of a Client", "Select", "Home", null, new { @class = "allcl" })</li>
+                <li> @Html.ActionLink("List of a Branches", "List_Branch", "Branches", null, new { @class = "allcl" })</li>
+                <li> @Html.ActionLink("List of a Banks", "List_Banks", "Banks", null, new { @class = "allcl" })</li>
+                @* <li> @Html.ActionLink("Create Client", "Add_Client", "Home", null, new { @class = "allcl" })</li>*@
+                @*<li> @Html.ActionLink("Delete Branch", "DeleteBranch", "Branches", null, new { @class = "allcl" })</li>
+        <li> @Html.ActionLink("Delete Bank", "DeleteBank", "Banks", null, new { @class = "allcl" })</li>
+        <li> @Html.ActionLink("Delete Client", "DeleteClient", "Home", null, new { @class = "allcl" })</li>*@
+                <li> @Html.ActionLink("О проекте", "about", "about", null, new { @class = "allcl" })</li>
+            </ul>
+        </div>
+        <div class="col-lg-4"></div>
+    </div>
+    <div id="container" class="col-lg-12">
+        <div class="col-lg-4"></div>
+        <div class="col-lg-8">
+            @RenderBody()   <!-- Подтягивает наши все контроллеры -->
+        </div>
+        <div class="col-lg-6"></div>
+    </div>
+    <div id="footer" class="col-lg-12">
+        <div class="col-lg-4"></div>
+        <div class="col-lg-8">
+            <footer  class="col-lg-6">
+                <p  style="text-align:center;font-weight:bold">&copy; @DateTime.Now.Year - Bank of Manage</p>
+            </footer>
+        </div>
+        <div class="col-lg-8"></div>
+    </div>
+
+
+    <style>
+        #header, #container, #footer {
+            clear: both;
+            width: 1300px;
+            margin: 0 0 0 -100px;
+            font-weight: bold;
+            color:darkblue;
+        }
+        /*a.allcl{
+            color:green;
+            border:1px solid black;
+            border-radius:24px;
+        }
+            a.allcl:hover {
+                background-color: aqua;
+            }*/
+        #b1 {
+            background-image: url("../../Images/bank1.png");
+            /*background-position: center;*/
+            background-size:100%;
+            background-repeat: no-repeat;
+        }
+    </style>
+</body>
+</html>
+

@@ -1,0 +1,93 @@
+﻿@model IEnumerable<_33_Clien_brach_onWeb.Models.Client>
+
+@{
+    ViewBag.Title = "All Clients ";
+}
+
+<h2 style="text-align:center;font-weight:bold;font-family:'Modern No. 20'">-- All Clients --</h2>
+
+<table style="float:right">
+    <tr>
+        <th>Find by name: @Html.TextBox("SearchString", ViewBag.CurrentFilter as string, new { @class = "form-control" })</th>
+        <th><input style="margin:17px 0 0 0" type="submit" value="Search" class="btn btn-primary" /><br /></th>
+    </tr>
+</table>
+
+<p id="create">
+    @Html.ActionLink("Create New", "Add_Client", null, new { @class = "creat" })
+</p>
+<style>
+    #cl {
+        font-size: larger;
+        font-weight: bold;
+    }
+    .creat {
+        text-decoration: none;
+        color: darkblue;
+        font-weight: bold;
+    }
+
+        .creat:hover {
+            text-decoration: none;
+            color: darkblue;
+            font-weight: bold;
+        }
+
+    #create {
+        border: 3px solid darkblue;
+        border-radius: 5px;
+        position: absolute;
+        padding: 14px;
+        margin: -50px 0 0 0;
+    }
+
+        #create:hover {
+            border: 3px solid darkblue;
+            border-radius: 5px;
+            position: absolute;
+            padding: 14px;
+            margin: -50px 0 0 0;
+            background-color: gold;
+        }
+</style>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.card_number)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.number_acc)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.date_register)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr id="cl">
+            <td>
+                @Html.DisplayFor(modelItem => item.name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.card_number)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.number_acc)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.date_register)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.id }) |
+                @Html.ActionLink("Details", "Details", new { id = item.id }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.id })
+            </td>
+        </tr>
+    }
+
+</table>

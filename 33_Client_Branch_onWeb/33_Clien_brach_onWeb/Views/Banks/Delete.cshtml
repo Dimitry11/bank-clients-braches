@@ -1,0 +1,49 @@
+﻿@model _33_Clien_brach_onWeb.Models.Bank
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h1 style="text-align:center;font-weight:bold;font-family:'Modern No. 20'">Are you sure you want to delete this?</h1>
+<div>
+    <h2 style="text-align:center;font-weight:bold;font-family:'Modern No. 20'">Delete</h2>
+
+    <h4 style="text-align:center">Bank</h4>
+    <hr />
+    <dl class="dl-horizontal" style="text-align:center">
+        <dt>
+            @Html.DisplayNameFor(model => model.name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.bank_acc)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.bank_acc)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.branch_number)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.branch_number)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-danger" /> |
+            @Html.ActionLink("Back to List", "List_Banks")
+        </div>
+    }
+</div>

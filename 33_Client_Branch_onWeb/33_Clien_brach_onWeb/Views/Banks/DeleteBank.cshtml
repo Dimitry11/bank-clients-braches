@@ -1,0 +1,68 @@
+﻿@model IEnumerable<_33_Clien_brach_onWeb.Models.Bank>
+
+@{
+    ViewBag.Title = "DeleteBank";
+}
+
+<h1 style="text-align:center;font-family:'Modern No. 20';font-weight:bold">Delete Bank</h1>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.bank_acc)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.branch_number)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.bank_acc)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.branch_number)
+        </td>
+        <td id="del">
+            @Html.ActionLink("Delete", "Delete", new { id=item.id, @class = "delBr" })
+        </td>
+    </tr>
+}
+
+</table>
+<style>
+    .delBr {
+        text-decoration: none;
+        color: green;
+    }
+
+        .delBr:hover {
+            text-decoration: none;
+            color: black;
+        }
+
+    #del {
+        border: 1px solid blue;
+        border-radius: 13px;
+        position: absolute;
+        padding: 8px;
+        /*margin: -50px 0 0 0;*/
+    }
+
+        #del:hover {
+            border: 1px solid blue;
+            border-radius: 13px;
+            position: absolute;
+            padding: 8px;
+            /*margin: -50px 0 0 0;*/
+            background-color: gold;
+        }
+</style>
